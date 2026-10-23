@@ -1,1 +1,1 @@
-"""acoustic-sidechannel-keyboard package."""
+"""Offline tools for reviewing acoustic privacy risks."""
